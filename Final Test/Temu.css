@@ -5,7 +5,7 @@ body{
 	background-repeat: no-repeat;
 	}
 	h1,h2,h3,p{
-		font-family:"San Francisco", calibri, sans-serif ;
+		font-family:"Shesek dashed", Kita Bet, sans-serif ;
     }
 
 table         { border: 1px solid black;
@@ -27,5 +27,6 @@ h3	      { text-align: center;
 
 p	      { color: white;
             text-align: justify;
-            font-size: 12pt;            
+            font-size: 12pt;
+            font-weight:700 ;            
     }
