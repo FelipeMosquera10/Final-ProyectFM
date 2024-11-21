@@ -1,5 +1,5 @@
 body{
-	background-color:#ff8a33;
+	background-color:#ff7c1a;
 	background-image: url(j2131bg.png);
 	background-position: left top;
 	background-repeat: no-repeat;
@@ -23,9 +23,9 @@ h2	      { text-align: center;
 		color: white; }
 
 h3	      { text-align: center;
-		color: white; }
+		color: black; }
 
-p	      { color: white;
+p	      { color: black;
             text-align: justify;
             font-size: 12pt;
             font-weight:700 ;            
